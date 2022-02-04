@@ -1,4 +1,4 @@
 #!/bin/bash
 echo hello world!
-echo I am user 2
+echo I am user 1
 
