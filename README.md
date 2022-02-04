@@ -62,7 +62,7 @@ Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote. 
 <!--Highlight text-->
-==very important words==
+I need to highlight these ==very important words==. 
 <!--Subscript-->
 H~2~O
 <!--Superscript-->
