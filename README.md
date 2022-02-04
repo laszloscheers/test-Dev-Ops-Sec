@@ -1,14 +1,23 @@
 # Heading 1
 *Italics*
+
 _Italics_
+
 **Strong**
+
 __Strong__
+
 ~~Striketrhough~~
+
+~~The world is flat.~~
+<!--Emoji-->
+:joy:
 <!--Horizontal Rule-->
 ---
 ___
 <!--Actual Character-->
 \*Italics\*
+<!--Links-->
 [Google.com](https://www.google.com "Title here")
 <!--Lists-->
 * Item 1
@@ -48,3 +57,13 @@ def add(num1, num2):
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
+<!--Footnote-->
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote. 
+<!--Highlight text-->
+==very important words==
+<!--Subscript-->
+H~2~O
+<!--Superscript-->
+X^2^
