@@ -1,4 +1,3 @@
 #!/bin/bash
 echo hello world!
-echo I am user 1
-
+echo I am user 3
